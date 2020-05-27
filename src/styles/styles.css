@@ -19,6 +19,9 @@ html {
   /* App */
   .App {
     text-align: center;
+    background-image: url('/background.jpg');
+    background-size: 100% 100%;
+    height: 100vh;
   }
   
   /* Content */
